@@ -15,7 +15,7 @@ import (
     "github.com/cbrand/go-filterparams"
     "github.com/go-pg/pg/v10"
     "github.com/iancoleman/strcase"
-    "github.com/pwnedgod/go-filterparams-gopg"
+    "github.com/ezraisw/go-filterparams-gopg"
 )
 
 type User struct {

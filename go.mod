@@ -1,4 +1,4 @@
-module github.com/pwnedgod/go-filterparams-gopg
+module github.com/ezraisw/go-filterparams-gopg
 
 go 1.14
 
